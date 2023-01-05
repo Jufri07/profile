@@ -44,7 +44,7 @@ h3 {
 }
 
 .container {
-  width: 500px;
+  width: 700px;
   margin: 0 auto;
 }
 
@@ -70,6 +70,7 @@ h3 {
   display: inline-block;
   padding: 0px 30px;
   padding-left: 0px;
+  font-size: 30px;
 }
 
 ul {
